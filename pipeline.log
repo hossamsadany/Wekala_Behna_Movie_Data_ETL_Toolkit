@@ -1,0 +1,711 @@
+2023-10-11 13:17:46,463 - INFO - Data has been extracted successfully with sheets: dict_keys(['Film_full_Cataloging', 'Lobby_card', 'Correspondences', 'Postersphotos', 'Contracts'])
+2023-10-11 13:17:50,585 - INFO - The Texts of The Column Film_ID Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,588 - INFO - The Texts of The Column Film_Name_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,590 - INFO - The Texts of The Column Film_Name_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,592 - INFO - The Texts of The Column Film_Name_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,594 - INFO - The Texts of The Column Film_Name_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,596 - INFO - The Texts of The Column Film_Name_in_Greek Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,599 - INFO - The Texts of The Column Film_Producer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,602 - INFO - The Texts of The Column Film_Producer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,604 - INFO - The Texts of The Column Film_Producer_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,608 - INFO - The Texts of The Column Production_Company_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,611 - INFO - The Texts of The Column Production_Company_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,613 - INFO - The Texts of The Column Production_Company_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,617 - INFO - The Texts of The Column Film_Director_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,619 - INFO - The Texts of The Column Film_Director_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,622 - INFO - The Texts of The Column Film_Director_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,625 - INFO - The Texts of The Column Film_Writer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,628 - INFO - The Texts of The Column Film_Writer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,631 - INFO - The Texts of The Column Film_Distributer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,633 - INFO - The Texts of The Column Film_Distributer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,639 - INFO - The Texts of The Column Crew_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,658 - INFO - The Texts of The Column Crew_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,663 - INFO - The Texts of The Column Cast_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,666 - INFO - The Texts of The Column Cast_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,669 - INFO - The Texts of The Column Stars_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,672 - INFO - The Texts of The Column Stars_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,675 - INFO - The Texts of The Column Production_Year Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,677 - INFO - The Texts of The Column Season_of_Distribution Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,679 - INFO - The Texts of The Column Distribution_Year_By_Behna Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,680 - INFO - The Texts of The Column Initial_release Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,683 - INFO - The Texts of The Column Country_of_origin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,685 - INFO - The Texts of The Column Filimig_location Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,687 - INFO - The Texts of The Column Film_Type Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,689 - INFO - The Texts of The Column Color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,691 - INFO - The Texts of The Column Duration_In_s Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,693 - INFO - The Texts of The Column Rights_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,696 - INFO - The Texts of The Column Access_advisory_to_film_Material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,702 - INFO - The Texts of The Column Summary_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,707 - INFO - The Texts of The Column Summary_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,710 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,712 - INFO - The Texts of The Column Genre_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,715 - INFO - The Texts of The Column Genre_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,717 - INFO - The Texts of The Column Notes_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,719 - INFO - The Texts of The Column Notes_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,720 - INFO - The Texts of The Column Posters Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,721 - INFO - The Texts of The Column Lobby_Cards Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,723 - INFO - The Texts of The Column Photos Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,724 - INFO - The Texts of The Column Contracts Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,726 - INFO - The Texts of The Column Scripts Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,727 - INFO - The Texts of The Column Brochures Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,729 - INFO - The Texts of The Column Bordereaux Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,730 - INFO - The Texts of The Column Correspondences Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,731 - INFO - The Texts of The Column Total_No_of_Documents Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:50,786 - INFO - The Column Crew_In_Arabic Have Been Transformed Into A Dictionary Successfully
+2023-10-11 13:17:50,814 - INFO - The Column Crew_In_Latin Have Been Transformed Into A Dictionary Successfully
+2023-10-11 13:17:50,815 - INFO - The Column Filimig_location Has Been Transformed Into A Location Dictionary Successfully
+2023-10-11 13:17:50,869 - INFO - The Column Film_ID Has Been Stripped Successfully
+2023-10-11 13:17:50,871 - INFO - The Column Film_Name_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,873 - INFO - The Column Film_Name_in_latin Has Been Stripped Successfully
+2023-10-11 13:17:50,875 - INFO - The Column Film_Name_in_French Has Been Stripped Successfully
+2023-10-11 13:17:50,876 - INFO - The Column Film_Name_in_English Has Been Stripped Successfully
+2023-10-11 13:17:50,878 - INFO - The Column Film_Name_in_Greek Has Been Stripped Successfully
+2023-10-11 13:17:50,881 - INFO - The Column Film_Distributer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,882 - INFO - The Column Film_Distributer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,884 - INFO - The Column Country_of_origin Has Been Stripped Successfully
+2023-10-11 13:17:50,885 - INFO - The Column Film_Type Has Been Stripped Successfully
+2023-10-11 13:17:50,887 - INFO - The Column Color Has Been Stripped Successfully
+2023-10-11 13:17:50,889 - INFO - The Column Rights_advisory Has Been Stripped Successfully
+2023-10-11 13:17:50,890 - INFO - The Column Film_Director_In_English Has Been Stripped Successfully
+2023-10-11 13:17:50,892 - INFO - The Column Season_of_Distribution Has Been Stripped Successfully
+2023-10-11 13:17:50,894 - INFO - The Column Summary_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,897 - INFO - The Column Summary_English Has Been Stripped Successfully
+2023-10-11 13:17:50,898 - INFO - The Column Film_Producer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,901 - INFO - The Column Cast_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,903 - INFO - The Column Cast_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,905 - INFO - The Column Stars_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,907 - INFO - The Column Stars_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,909 - INFO - The Column Access_advisory_to_film_Material Has Been Stripped Successfully
+2023-10-11 13:17:50,911 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:17:50,913 - INFO - The Column Genre_English Has Been Stripped Successfully
+2023-10-11 13:17:50,916 - INFO - The Column Genre_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,918 - INFO - The Column Notes_English Has Been Stripped Successfully
+2023-10-11 13:17:50,920 - INFO - The Column Notes_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,922 - INFO - The Column Film_Producer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,924 - INFO - The Column Film_Producer_in_English Has Been Stripped Successfully
+2023-10-11 13:17:50,926 - INFO - The Column Production_Company_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,928 - INFO - The Column Production_Company_In_English Has Been Stripped Successfully
+2023-10-11 13:17:50,930 - INFO - The Column Production_Company_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,931 - INFO - The Column Film_Director_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,933 - INFO - The Column Film_Director_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,935 - INFO - The Column Film_Writer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:50,937 - INFO - The Column Film_Writer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:50,939 - INFO - The Column Production_Year Has Been Replaced 'X' With '0' Successfully
+2023-10-11 13:17:50,940 - INFO - The Column Distribution_Year_By_Behna Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,942 - INFO - The Column Posters Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,943 - INFO - The Column Lobby_Cards Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,945 - INFO - The Column Photos Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,946 - INFO - The Column Contracts Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,947 - INFO - The Column Scripts Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,949 - INFO - The Column Brochures Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,950 - INFO - The Column Bordereaux Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,951 - INFO - The Column Correspondences Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,953 - INFO - The Column Total_No_of_Documents Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,954 - INFO - The Column Production_Year Has Been Transformed to Integers Successfully
+2023-10-11 13:17:50,956 - INFO - Numbers Has Been Extracted from The Column Season_of_Distribution Successfully
+2023-10-11 13:17:50,961 - INFO - The Column Initial_release Has Been Transformed Into DateTime Successfully
+2023-10-11 13:17:50,964 - INFO - Minuts Has Been Extracted From The Column Duration_In_s Successfully
+2023-10-11 13:17:51,956 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:17:51,963 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,966 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,969 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,971 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,974 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,979 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,983 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,985 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,988 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,992 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,993 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:51,997 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,000 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,001 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,006 - INFO - The Texts of The Column Rights_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,009 - INFO - The Texts of The Column Access_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,018 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,024 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,027 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,031 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,033 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,035 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,037 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,040 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,043 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,046 - INFO - The Texts of The Column People_in_photo Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,075 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,076 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,080 - INFO - The Texts of The Column color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,083 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:52,126 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:17:52,130 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:17:52,133 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:17:52,135 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:52,137 - INFO - The Column Film_Id Has Been Stripped Successfully
+2023-10-11 13:17:52,140 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:17:52,143 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:17:52,146 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:17:52,149 - INFO - The Column Published_Created Has Been Stripped Successfully
+2023-10-11 13:17:52,151 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:17:52,153 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:17:52,156 - INFO - The Column Rights_advisory Has Been Stripped Successfully
+2023-10-11 13:17:52,158 - INFO - The Column Access_advisory Has Been Stripped Successfully
+2023-10-11 13:17:52,162 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:17:52,164 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:17:52,166 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:17:52,169 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:17:52,171 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:17:52,202 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:17:52,204 - INFO - The Column color Has Been Stripped Successfully
+2023-10-11 13:17:52,206 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:17:52,209 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:17:52,213 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:17:52,215 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:17:52,218 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:17:52,221 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:17:52,224 - INFO - The Column People_in_photo Has Been Stripped Successfully
+2023-10-11 13:17:52,225 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:17:52,230 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:17:53,252 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:17:53,254 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,255 - INFO - The Texts of The Column invaild_calssifactionBasile_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,257 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,258 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,259 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,261 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,263 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,265 - INFO - The Texts of The Column Film_Name_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,266 - INFO - The Texts of The Column Film_Name_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,268 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,270 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,271 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,273 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,275 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,277 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,280 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,281 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,283 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,285 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,286 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,287 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,289 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,291 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,292 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,293 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,296 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,298 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,299 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,300 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:53,333 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:17:53,336 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:17:53,338 - INFO - The Column invaild_calssifactionBasile_No Has Been Stripped Successfully
+2023-10-11 13:17:53,340 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:53,358 - INFO - The Column Film_Name_in_English Has Been Stripped Successfully
+2023-10-11 13:17:53,360 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:53,364 - INFO - The Column Film_Name_in_French Has Been Stripped Successfully
+2023-10-11 13:17:53,366 - INFO - The Column Published_Created Has Been Stripped Successfully
+2023-10-11 13:17:53,368 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:17:53,370 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:17:53,372 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:17:53,374 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:17:53,377 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:17:53,380 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:17:53,382 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:17:53,384 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:17:53,386 - INFO - The Column Film_Id Has Been Stripped Successfully
+2023-10-11 13:17:53,388 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:17:53,390 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:17:53,392 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:17:53,394 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:17:53,397 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:17:53,399 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:17:53,401 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:17:53,403 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:17:54,207 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:17:54,209 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,211 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,232 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,235 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,237 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,239 - INFO - The Texts of The Column Film_Name_In_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,240 - INFO - The Texts of The Column Film_Name_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,242 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,243 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,245 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,247 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,249 - INFO - The Texts of The Column Published_Created_Poster Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,250 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,252 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,254 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,257 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,260 - INFO - The Texts of The Column Subject Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,263 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,266 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,268 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,269 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,272 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,274 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,275 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,276 - INFO - The Texts of The Column People_items_in_photo Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,280 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,281 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,284 - INFO - The Texts of The Column color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,286 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,287 - INFO - The Texts of The Column Film_ID Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:54,324 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:17:54,327 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:17:54,331 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:17:54,360 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:54,364 - INFO - The Column Film_Name_In_English Has Been Stripped Successfully
+2023-10-11 13:17:54,367 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:54,370 - INFO - The Column Film_Name_In_French Has Been Stripped Successfully
+2023-10-11 13:17:54,381 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:17:54,384 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:17:54,386 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:17:54,388 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:17:54,391 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:17:54,393 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:17:54,395 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:17:54,398 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:17:54,401 - INFO - The Column People_items_in_photo Has Been Stripped Successfully
+2023-10-11 13:17:54,403 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:17:54,405 - INFO - The Column color Has Been Stripped Successfully
+2023-10-11 13:17:54,408 - INFO - The Column Film_ID Has Been Stripped Successfully
+2023-10-11 13:17:54,410 - INFO - The Column Published_Created_Poster Has Been Stripped Successfully
+2023-10-11 13:17:54,413 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:17:54,415 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:54,418 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:17:54,420 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:17:54,422 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:17:54,424 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:17:54,427 - INFO - The Column Subject Has Been Stripped Successfully
+2023-10-11 13:17:54,431 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:17:54,432 - INFO - The Column People_items_in_photo Has Been Stripped Successfully
+2023-10-11 13:17:54,434 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:17:54,437 - ERROR - An Error Has Occur During Transforming the Column Published_Created_Poster Into DateTime Because of  Unknown string format: IF THE YEAR IS NOT IDENTIFIED, YOU CAN WRITE IT THIS WAY [BETWEEN 1970 AND 1990]
+2023-10-11 13:17:55,421 - INFO - Columns ['Notes', 'Notes2', 'Notes3']joined and new columns created successfully.
+2023-10-11 13:17:55,423 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,424 - INFO - The Texts of The Column invaild_calssifactionBasile_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,425 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,427 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,429 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,430 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,432 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,433 - INFO - The Texts of The Column Film_Name_In_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,434 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,465 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,467 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,469 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,470 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,472 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,473 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,474 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,476 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,477 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,480 - INFO - The Texts of The Column Form_Genre Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,481 - INFO - The Texts of The Column Contract_Parties_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,483 - INFO - The Texts of The Column Contract_Parties_in_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,484 - INFO - The Texts of The Column Contract_Parties_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,485 - INFO - The Texts of The Column Contract_duration Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,487 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,488 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,489 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,491 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,492 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,494 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,495 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,497 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,499 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,500 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:17:55,543 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:17:55,548 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:17:55,549 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:17:55,551 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:17:55,553 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:55,555 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:17:55,557 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:17:55,559 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:17:55,562 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:17:55,585 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:17:55,588 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:17:55,589 - INFO - The Column Form_Genre Has Been Stripped Successfully
+2023-10-11 13:17:55,591 - INFO - The Column Contract_duration Has Been Stripped Successfully
+2023-10-11 13:17:55,593 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:17:55,594 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:17:55,597 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:17:55,599 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:17:55,601 - INFO - The Column invaild_calssifactionBasile_No Has Been Stripped Successfully
+2023-10-11 13:17:55,612 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:55,615 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:17:55,617 - INFO - The Column Film_Name_In_French Has Been Stripped Successfully
+2023-10-11 13:17:55,619 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:17:55,621 - INFO - The Column Contract_Parties_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:17:55,623 - INFO - The Column Contract_Parties_in_Latin Has Been Stripped Successfully
+2023-10-11 13:17:55,625 - INFO - The Column Contract_Parties_in_English Has Been Stripped Successfully
+2023-10-11 13:17:55,627 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:17:55,631 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:17:55,633 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:17:55,635 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:17:55,637 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:19:03,320 - INFO - Table 'Film_full_Cataloging' created and all data uploaded.
+2023-10-11 13:19:03,518 - INFO - Table 'Lobby_card' created and all data uploaded.
+2023-10-11 13:19:03,667 - INFO - Table 'Correspondences' created and all data uploaded.
+2023-10-11 13:19:03,834 - INFO - Table 'Postersphotos' created and all data uploaded.
+2023-10-11 13:19:03,980 - INFO - Table 'Contracts' created and all data uploaded.
+2023-10-11 13:21:19,145 - INFO - Data has been extracted successfully with sheets: dict_keys(['Film_full_Cataloging', 'Lobby_card', 'Correspondences', 'Postersphotos', 'Contracts'])
+2023-10-11 13:21:21,853 - INFO - The Texts of The Column Film_ID Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,855 - INFO - The Texts of The Column Film_Name_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,858 - INFO - The Texts of The Column Film_Name_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,860 - INFO - The Texts of The Column Film_Name_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,862 - INFO - The Texts of The Column Film_Name_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,864 - INFO - The Texts of The Column Film_Name_in_Greek Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,866 - INFO - The Texts of The Column Film_Producer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,869 - INFO - The Texts of The Column Film_Producer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,871 - INFO - The Texts of The Column Film_Producer_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,875 - INFO - The Texts of The Column Production_Company_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,878 - INFO - The Texts of The Column Production_Company_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,880 - INFO - The Texts of The Column Production_Company_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,883 - INFO - The Texts of The Column Film_Director_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,886 - INFO - The Texts of The Column Film_Director_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,889 - INFO - The Texts of The Column Film_Director_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,913 - INFO - The Texts of The Column Film_Writer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,916 - INFO - The Texts of The Column Film_Writer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,918 - INFO - The Texts of The Column Film_Distributer_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,921 - INFO - The Texts of The Column Film_Distributer_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,925 - INFO - The Texts of The Column Crew_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,928 - INFO - The Texts of The Column Crew_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,932 - INFO - The Texts of The Column Cast_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,936 - INFO - The Texts of The Column Cast_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,939 - INFO - The Texts of The Column Stars_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,941 - INFO - The Texts of The Column Stars_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,944 - INFO - The Texts of The Column Production_Year Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,947 - INFO - The Texts of The Column Season_of_Distribution Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,948 - INFO - The Texts of The Column Distribution_Year_By_Behna Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,950 - INFO - The Texts of The Column Initial_release Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,952 - INFO - The Texts of The Column Country_of_origin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,954 - INFO - The Texts of The Column Filimig_location Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,956 - INFO - The Texts of The Column Film_Type Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,958 - INFO - The Texts of The Column Color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,960 - INFO - The Texts of The Column Duration_In_s Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,963 - INFO - The Texts of The Column Rights_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,965 - INFO - The Texts of The Column Access_advisory_to_film_Material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,971 - INFO - The Texts of The Column Summary_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,976 - INFO - The Texts of The Column Summary_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,980 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,982 - INFO - The Texts of The Column Genre_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,984 - INFO - The Texts of The Column Genre_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,986 - INFO - The Texts of The Column Notes_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,988 - INFO - The Texts of The Column Notes_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,989 - INFO - The Texts of The Column Posters Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,990 - INFO - The Texts of The Column Lobby_Cards Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,992 - INFO - The Texts of The Column Photos Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,993 - INFO - The Texts of The Column Contracts Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,996 - INFO - The Texts of The Column Scripts Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,997 - INFO - The Texts of The Column Brochures Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,998 - INFO - The Texts of The Column Bordereaux Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:21,999 - INFO - The Texts of The Column Correspondences Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:22,001 - INFO - The Texts of The Column Total_No_of_Documents Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:22,063 - INFO - The Column Crew_In_Arabic Have Been Transformed Into A Dictionary Successfully
+2023-10-11 13:21:22,089 - INFO - The Column Crew_In_Latin Have Been Transformed Into A Dictionary Successfully
+2023-10-11 13:21:22,090 - INFO - The Column Filimig_location Has Been Transformed Into A Location Dictionary Successfully
+2023-10-11 13:21:22,122 - INFO - The Column Film_ID Has Been Stripped Successfully
+2023-10-11 13:21:22,124 - INFO - The Column Film_Name_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,125 - INFO - The Column Film_Name_in_latin Has Been Stripped Successfully
+2023-10-11 13:21:22,127 - INFO - The Column Film_Name_in_French Has Been Stripped Successfully
+2023-10-11 13:21:22,129 - INFO - The Column Film_Name_in_English Has Been Stripped Successfully
+2023-10-11 13:21:22,131 - INFO - The Column Film_Name_in_Greek Has Been Stripped Successfully
+2023-10-11 13:21:22,132 - INFO - The Column Film_Distributer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,134 - INFO - The Column Film_Distributer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,136 - INFO - The Column Country_of_origin Has Been Stripped Successfully
+2023-10-11 13:21:22,137 - INFO - The Column Film_Type Has Been Stripped Successfully
+2023-10-11 13:21:22,139 - INFO - The Column Color Has Been Stripped Successfully
+2023-10-11 13:21:22,141 - INFO - The Column Rights_advisory Has Been Stripped Successfully
+2023-10-11 13:21:22,142 - INFO - The Column Film_Director_In_English Has Been Stripped Successfully
+2023-10-11 13:21:22,144 - INFO - The Column Season_of_Distribution Has Been Stripped Successfully
+2023-10-11 13:21:22,147 - INFO - The Column Summary_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,149 - INFO - The Column Summary_English Has Been Stripped Successfully
+2023-10-11 13:21:22,151 - INFO - The Column Film_Producer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,153 - INFO - The Column Cast_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,156 - INFO - The Column Cast_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,158 - INFO - The Column Stars_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,160 - INFO - The Column Stars_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,162 - INFO - The Column Access_advisory_to_film_Material Has Been Stripped Successfully
+2023-10-11 13:21:22,164 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:21:22,166 - INFO - The Column Genre_English Has Been Stripped Successfully
+2023-10-11 13:21:22,168 - INFO - The Column Genre_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,170 - INFO - The Column Notes_English Has Been Stripped Successfully
+2023-10-11 13:21:22,171 - INFO - The Column Notes_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,173 - INFO - The Column Film_Producer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,175 - INFO - The Column Film_Producer_in_English Has Been Stripped Successfully
+2023-10-11 13:21:22,177 - INFO - The Column Production_Company_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,178 - INFO - The Column Production_Company_In_English Has Been Stripped Successfully
+2023-10-11 13:21:22,180 - INFO - The Column Production_Company_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,182 - INFO - The Column Film_Director_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,184 - INFO - The Column Film_Director_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,186 - INFO - The Column Film_Writer_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:22,187 - INFO - The Column Film_Writer_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:22,190 - INFO - The Column Production_Year Has Been Replaced 'X' With '0' Successfully
+2023-10-11 13:21:22,191 - INFO - The Column Distribution_Year_By_Behna Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,192 - INFO - The Column Posters Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,194 - INFO - The Column Lobby_Cards Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,195 - INFO - The Column Photos Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,197 - INFO - The Column Contracts Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,198 - INFO - The Column Scripts Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,199 - INFO - The Column Brochures Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,200 - INFO - The Column Bordereaux Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,202 - INFO - The Column Correspondences Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,203 - INFO - The Column Total_No_of_Documents Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,204 - INFO - The Column Production_Year Has Been Transformed to Integers Successfully
+2023-10-11 13:21:22,206 - INFO - Numbers Has Been Extracted from The Column Season_of_Distribution Successfully
+2023-10-11 13:21:22,208 - INFO - The Column Initial_release Has Been Transformed Into DateTime Successfully
+2023-10-11 13:21:22,210 - INFO - Minuts Has Been Extracted From The Column Duration_In_s Successfully
+2023-10-11 13:21:23,091 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:21:23,095 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,098 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,101 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,102 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,106 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,109 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,113 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,115 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,118 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,122 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,123 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,124 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,127 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,130 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,134 - INFO - The Texts of The Column Rights_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,137 - INFO - The Texts of The Column Access_advisory Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,144 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,151 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,154 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,157 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,160 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,162 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,165 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,199 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,202 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,206 - INFO - The Texts of The Column People_in_photo Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,209 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,214 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,217 - INFO - The Texts of The Column color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,220 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:23,272 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:21:23,274 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:21:23,276 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:21:23,280 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:23,283 - INFO - The Column Film_Id Has Been Stripped Successfully
+2023-10-11 13:21:23,285 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:21:23,287 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:21:23,289 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:21:23,293 - INFO - The Column Published_Created Has Been Stripped Successfully
+2023-10-11 13:21:23,297 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:21:23,299 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:21:23,301 - INFO - The Column Rights_advisory Has Been Stripped Successfully
+2023-10-11 13:21:23,304 - INFO - The Column Access_advisory Has Been Stripped Successfully
+2023-10-11 13:21:23,306 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:21:23,309 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:21:23,339 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:21:23,342 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:21:23,344 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:21:23,348 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:21:23,350 - INFO - The Column color Has Been Stripped Successfully
+2023-10-11 13:21:23,352 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:21:23,355 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:21:23,358 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:21:23,360 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:21:23,364 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:21:23,367 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:21:23,369 - INFO - The Column People_in_photo Has Been Stripped Successfully
+2023-10-11 13:21:23,371 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:21:23,374 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:21:24,417 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:21:24,418 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,420 - INFO - The Texts of The Column invaild_calssifactionBasile_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,422 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,423 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,424 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,425 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,426 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,428 - INFO - The Texts of The Column Film_Name_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,429 - INFO - The Texts of The Column Film_Name_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,431 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,432 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,433 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,434 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,435 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,465 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,466 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,468 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,469 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,470 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,472 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,473 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,474 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,475 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,477 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,479 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,481 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,482 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,483 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,484 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:24,518 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:21:24,520 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:21:24,522 - INFO - The Column invaild_calssifactionBasile_No Has Been Stripped Successfully
+2023-10-11 13:21:24,524 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:24,526 - INFO - The Column Film_Name_in_English Has Been Stripped Successfully
+2023-10-11 13:21:24,530 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:24,532 - INFO - The Column Film_Name_in_French Has Been Stripped Successfully
+2023-10-11 13:21:24,534 - INFO - The Column Published_Created Has Been Stripped Successfully
+2023-10-11 13:21:24,536 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:21:24,538 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:21:24,540 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:21:24,542 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:21:24,544 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:21:24,548 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:21:24,549 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:21:24,552 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:21:24,554 - INFO - The Column Film_Id Has Been Stripped Successfully
+2023-10-11 13:21:24,556 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:21:24,557 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:21:24,559 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:21:24,562 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:21:24,565 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:21:24,600 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:21:24,602 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:21:24,604 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:21:25,600 - INFO - Columns ['Notes', 'Notes2', 'Notes3', 'Notes4']joined and new columns created successfully.
+2023-10-11 13:21:25,602 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,605 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,607 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,609 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,613 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,615 - INFO - The Texts of The Column Film_Name_In_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,638 - INFO - The Texts of The Column Film_Name_In_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,639 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,641 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,642 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,643 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,645 - INFO - The Texts of The Column Published_Created_Poster Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,647 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,649 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,651 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,654 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,657 - INFO - The Texts of The Column Subject Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,659 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,662 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,665 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,667 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,669 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,671 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,673 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,674 - INFO - The Texts of The Column People_items_in_photo Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,676 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,678 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,680 - INFO - The Texts of The Column color Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,683 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,684 - INFO - The Texts of The Column Film_ID Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:25,720 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:21:25,723 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:21:25,725 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:21:25,727 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:25,731 - INFO - The Column Film_Name_In_English Has Been Stripped Successfully
+2023-10-11 13:21:25,733 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:25,735 - INFO - The Column Film_Name_In_French Has Been Stripped Successfully
+2023-10-11 13:21:25,772 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:21:25,774 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:21:25,776 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:21:25,779 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:21:25,782 - INFO - The Column Path Has Been Stripped Successfully
+2023-10-11 13:21:25,784 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:21:25,786 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:21:25,788 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:21:25,791 - INFO - The Column People_items_in_photo Has Been Stripped Successfully
+2023-10-11 13:21:25,793 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:21:25,795 - INFO - The Column color Has Been Stripped Successfully
+2023-10-11 13:21:25,798 - INFO - The Column Film_ID Has Been Stripped Successfully
+2023-10-11 13:21:25,801 - INFO - The Column Published_Created_Poster Has Been Stripped Successfully
+2023-10-11 13:21:25,803 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:21:25,805 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:25,807 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:21:25,809 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:21:25,811 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:21:25,815 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:21:25,818 - INFO - The Column Subject Has Been Stripped Successfully
+2023-10-11 13:21:25,820 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:21:25,822 - INFO - The Column People_items_in_photo Has Been Stripped Successfully
+2023-10-11 13:21:25,824 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:21:25,826 - ERROR - An Error Has Occur During Transforming the Column Published_Created_Poster Into DateTime Because of  Unknown string format: IF THE YEAR IS NOT IDENTIFIED, YOU CAN WRITE IT THIS WAY [BETWEEN 1970 AND 1990]
+2023-10-11 13:21:26,870 - INFO - Columns ['Notes', 'Notes2', 'Notes3']joined and new columns created successfully.
+2023-10-11 13:21:26,872 - INFO - The Texts of The Column Call_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,874 - INFO - The Texts of The Column invaild_calssifactionBasile_No Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,875 - INFO - The Texts of The Column Section Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,876 - INFO - The Texts of The Column Type_of_material Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,877 - INFO - The Texts of The Column Film_Id Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,880 - INFO - The Texts of The Column Film_Name_In_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,881 - INFO - The Texts of The Column Film_Name_In_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,882 - INFO - The Texts of The Column Film_Name_In_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,884 - INFO - The Texts of The Column Title_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,885 - INFO - The Texts of The Column Title_in_latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,886 - INFO - The Texts of The Column Title_in_French Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,888 - INFO - The Texts of The Column Title_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,889 - INFO - The Texts of The Column Published_Created Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,891 - INFO - The Texts of The Column Links_to_digital_copy Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,892 - INFO - The Texts of The Column Digital_Copy_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,893 - INFO - The Texts of The Column Physical_Description Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,895 - INFO - The Texts of The Column Summary Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,897 - INFO - The Texts of The Column Keywords Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,898 - INFO - The Texts of The Column Form_Genre Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,900 - INFO - The Texts of The Column Contract_Parties_in_Arabic Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,901 - INFO - The Texts of The Column Contract_Parties_in_Latin Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,923 - INFO - The Texts of The Column Contract_Parties_in_English Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,925 - INFO - The Texts of The Column Contract_duration Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,926 - INFO - The Texts of The Column Notes Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,927 - INFO - The Texts of The Column Acquisition_source Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,929 - INFO - The Texts of The Column Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,932 - INFO - The Texts of The Column Internal_Item_link_in_the_Repository Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,933 - INFO - The Texts of The Column Scanned_File_Format Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,935 - INFO - The Texts of The Column Material_status Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,936 - INFO - The Texts of The Column Material_Language Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,937 - INFO - The Texts of The Column Film_Information_Link Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,939 - INFO - The Texts of The Column Number_of_copies Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,940 - INFO - The Texts of The Column Digital_file_name Has been Corrected According To the Dictionary Of Wrong Words Successfully
+2023-10-11 13:21:26,985 - INFO - Columns Path and Web_Path Has been Created Successfully
+2023-10-11 13:21:26,988 - INFO - The Column Call_No Has Been Stripped Successfully
+2023-10-11 13:21:26,990 - INFO - The Column Section Has Been Stripped Successfully
+2023-10-11 13:21:26,992 - INFO - The Column Type_of_material Has Been Stripped Successfully
+2023-10-11 13:21:26,994 - INFO - The Column Title_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:26,996 - INFO - The Column Title_in_English Has Been Stripped Successfully
+2023-10-11 13:21:26,999 - INFO - The Column Title_in_latin Has Been Stripped Successfully
+2023-10-11 13:21:27,001 - INFO - The Column Title_in_French Has Been Stripped Successfully
+2023-10-11 13:21:27,004 - INFO - The Column Links_to_digital_copy Has Been Stripped Successfully
+2023-10-11 13:21:27,005 - INFO - The Column Physical_Description Has Been Stripped Successfully
+2023-10-11 13:21:27,007 - INFO - The Column Summary Has Been Stripped Successfully
+2023-10-11 13:21:27,010 - INFO - The Column Form_Genre Has Been Stripped Successfully
+2023-10-11 13:21:27,012 - INFO - The Column Contract_duration Has Been Stripped Successfully
+2023-10-11 13:21:27,015 - INFO - The Column Acquisition_source Has Been Stripped Successfully
+2023-10-11 13:21:27,016 - INFO - The Column Repository Has Been Stripped Successfully
+2023-10-11 13:21:27,019 - INFO - The Column Scanned_File_Format Has Been Stripped Successfully
+2023-10-11 13:21:27,021 - INFO - The Column Film_Information_Link Has Been Stripped Successfully
+2023-10-11 13:21:27,023 - INFO - The Column invaild_calssifactionBasile_No Has Been Stripped Successfully
+2023-10-11 13:21:27,058 - INFO - The Column Film_Name_In_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:27,060 - INFO - The Column Film_Name_In_Latin Has Been Stripped Successfully
+2023-10-11 13:21:27,062 - INFO - The Column Film_Name_In_French Has Been Stripped Successfully
+2023-10-11 13:21:27,066 - INFO - The Column Keywords Has Been Stripped Successfully
+2023-10-11 13:21:27,068 - INFO - The Column Contract_Parties_in_Arabic Has Been Stripped Successfully
+2023-10-11 13:21:27,070 - INFO - The Column Contract_Parties_in_Latin Has Been Stripped Successfully
+2023-10-11 13:21:27,071 - INFO - The Column Contract_Parties_in_English Has Been Stripped Successfully
+2023-10-11 13:21:27,073 - INFO - The Column Notes Has Been Stripped Successfully
+2023-10-11 13:21:27,075 - INFO - The Column Material_status Has Been Stripped Successfully
+2023-10-11 13:21:27,078 - INFO - The Column Material_Language Has Been Stripped Successfully
+2023-10-11 13:21:27,079 - INFO - The Column Number_of_copies Has Been Transformed to Integers Successfully
+2023-10-11 13:21:27,082 - INFO - The Column Published_Created Has Been Transformed Into DateTime Successfully
+2023-10-11 13:21:39,697 - INFO - Non-existing rows in DataFrame 'Film_full_Cataloging' successfully uploaded to SQL table 'Film_full_Cataloging'
+2023-10-11 13:21:50,082 - INFO - No non-existing rows to append to 'Lobby_card'
+2023-10-11 13:21:50,207 - INFO - No non-existing rows to append to 'Correspondences'
+2023-10-11 13:21:53,374 - INFO - No non-existing rows to append to 'Postersphotos'
+2023-10-11 13:21:53,597 - INFO - No non-existing rows to append to 'Contracts'
+2023-10-11 13:22:08,395 - INFO - No non-existing rows to append to 'Film_full_Cataloging'
+2023-10-11 13:22:19,158 - INFO - No non-existing rows to append to 'Lobby_card'
+2023-10-11 13:22:19,285 - INFO - No non-existing rows to append to 'Correspondences'
+2023-10-11 13:22:23,322 - INFO - No non-existing rows to append to 'Postersphotos'
+2023-10-11 13:22:23,597 - INFO - No non-existing rows to append to 'Contracts'

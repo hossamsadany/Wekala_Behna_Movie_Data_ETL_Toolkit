@@ -1,0 +1,5 @@
+user = "s3dany"
+password = "s3danyshome"
+host = "localhost"
+port = "5432"
+database = "Behna"

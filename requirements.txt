@@ -1,0 +1,5 @@
+pandas
+numpy
+pyarabic
+sqlalchemy
+PyQt5
